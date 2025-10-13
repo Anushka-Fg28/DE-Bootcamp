@@ -1,0 +1,12 @@
+{
+    "user_id": "U001",
+    "name": "Anushka Makode",
+    "email": "anushka@example.com",
+    "skills": [
+        "Python",
+        "HTML",
+        "CSS"
+    ],
+    "active": true,
+    "age": 22
+}

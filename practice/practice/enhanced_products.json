@@ -1,0 +1,23 @@
+[
+    {
+        "id": "P001",
+        "name": "Laptop",
+        "price": 55000,
+        "gst_amount": 9900.0,
+        "final_price": 64900.0
+    },
+    {
+        "id": "P002",
+        "name": "Keyboard",
+        "price": 1200,
+        "gst_amount": 216.0,
+        "final_price": 1416.0
+    },
+    {
+        "id": "P003",
+        "name": "Monitor",
+        "price": 9500,
+        "gst_amount": 1710.0,
+        "final_price": 11210.0
+    }
+]
