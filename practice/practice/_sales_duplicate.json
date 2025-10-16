@@ -1,0 +1,50 @@
+[
+  {
+    "transaction_id": "TXN008",
+    "customer_id": "CUST002",
+    "product_name": "Speaker",
+    "quantity": 1,
+    "price": 79.99,
+    "sale_date": "2025-09-05"
+  },
+  {
+    "transaction_id": "TXN009",
+    "customer_id": "CUST004",
+    "product_name": "Phone",
+    "quantity": 1,
+    "price": 699.99,
+    "sale_date": "2025-09-05"
+  },
+  {
+    "transaction_id": "TXN010",
+    "customer_id": "CUST003",
+    "product_name": "Cable",
+    "quantity": 3,
+    "price": 15.99,
+    "sale_date": "2025-09-06"
+  },
+  {
+    "transaction_id": "TXN011",
+    "customer_id": "CUST002",
+    "product_name": "Charger",
+    "quantity": 1,
+    "price": 30.99,
+    "sale_date": "2025-09-08"
+  },
+  {
+    "transaction_id": "TXN012",
+    "customer_id": "CUST004",
+    "product_name": "Charger",
+    "quantity": 1,
+    "price": 30.99,
+    "sale_date": "2025-09-09"
+  },
+  {
+    "transaction_id": "TXN013",
+    "customer_id": "CUST003",
+    "product_name": "Charger",
+    "quantity": 1,
+    "price": 30.99,
+    "sale_date": "2025-09-09"
+  }
+]
