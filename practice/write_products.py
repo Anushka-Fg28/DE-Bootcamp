@@ -1,6 +1,5 @@
 import csv
 
-# Create a new file
 file_to_output = open('new_products.csv', 'w', newline='', encoding="utf-8")
 
 # Create a writer object

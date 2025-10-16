@@ -7,9 +7,9 @@ data_lines = list(csv_data)
 # Check header row
 print(data_lines[0])
 
-# Extract first 10 product names
+
 product_names = []
 for line in data_lines[1:11]:
-    product_names.append(line[1])  # assuming 2nd column is product name
+    product_names.append(line[1]) 
 
 print(product_names)
